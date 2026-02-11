@@ -31,3 +31,8 @@ This project is a **PHP OOP-based web application** demonstrating **role-based a
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/PHP-OOP-Role-Based-CRUD.git
+
+   ## Demo Video
+
+[Click here to watch the demo](videos/demo.mp4)
+
