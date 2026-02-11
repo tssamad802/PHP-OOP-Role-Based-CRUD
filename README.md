@@ -40,9 +40,6 @@ This project demonstrates **role-based access control** and **CRUD operations** 
 
 ## Demo Video
 
-<video width="600" controls>
-  <source src="videos/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Click here to watch the demo](video/demo.mp4)
 
 
