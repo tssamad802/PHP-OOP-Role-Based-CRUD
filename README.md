@@ -34,5 +34,5 @@ This project is a **PHP OOP-based web application** demonstrating **role-based a
 
    ## Demo Video
 
-[Click here to watch the demo](videos/demo.mp4)
+[Click here to watch the demo](video/demo.mp4)
 
