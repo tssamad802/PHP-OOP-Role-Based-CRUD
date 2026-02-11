@@ -34,5 +34,15 @@ This project is a **PHP OOP-based web application** demonstrating **role-based a
 
    ## Demo Video
 
-[Click here to watch the demo](video/demo.mp4)
+# PHP OOP Role-Based CRUD
+
+This project demonstrates **role-based access control** and **CRUD operations** for posts and categories.
+
+## Demo Video
+
+<video width="600" controls>
+  <source src="videos/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
